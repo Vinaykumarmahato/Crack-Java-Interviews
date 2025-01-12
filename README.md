@@ -4,7 +4,6 @@ Welcome to the **Java Interview Prep** repository! 🎯 This comprehensive colle
 
 ---
 
-
 ## **What's Inside?**
 
 ### **📚 Categories of Questions**  
